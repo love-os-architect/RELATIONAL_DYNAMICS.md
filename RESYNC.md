@@ -54,3 +54,13 @@ This script (`resync_simulator.py`) compares two recovery strategies:
 
 ```bash
 python resync_simulator.py
+```
+
+### Output Visualization
+The script generates a graph comparing the two trajectories.
+
+- **Red Line (Force):** Shows the struggle of trying to communicate through ego.
+- **Blue Line (Love-OS):** Shows the efficiency of "Active Silence."
+
+---
+*Powered by Love-OS Physics Engine.*
